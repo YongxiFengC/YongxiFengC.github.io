@@ -27,7 +27,8 @@ My research interests lie at the intersection of **machine learning reliability,
 - *2026.05*: &nbsp;🎉 Started preparing MS/PhD applications in Biostatistics.
 - *2026.04*: &nbsp;🎉 Completed exchange studies at University of British Columbia (Time Series Analysis).
 - *2025.12*: &nbsp;🎉 Awarded Academic Performance Scholarship Class C.
-
+- 
+<span class='anchor' id='research'></span>
 # 📝 Selected Research 
 
 - **Wearable Sensor Anomaly Detection – LLM-based Framework**, CUHK-Shenzhen (Advisor: Prof. Kaixin Zhou). Investigated clinical validity gaps in wearable health data; tokenized NHANES physiological signals (2,000+ participants) into LLM-compatible sequences; implemented teacher-student distillation with FRIM-based soft labels, benchmarking against statistical and deep learning baselines.
@@ -36,6 +37,7 @@ My research interests lie at the intersection of **machine learning reliability,
 
 - **"Photo Stories": Visual-Guided Interview System**, Tencent Collaboration (Advisor: Prof. Zhongxiang Dai). Built multimodal RAG system for visually grounded oral history collection; designed question generation pipeline and cross-image context management; evaluated multiple LLMs (Gemini, Hunyuan, Tencent Yuanbao) on narrative coherence.
 
+<span class='anchor' id='Course Projects'></span>
 # 📚 Selected Course Projects
 
 - **Time Series (STAT443): Forecasting Daily Influenza Incidence in Kawasaki City (2014-2025)**. Compared AR(1), SARIMA, and ARIMAX models under one-step-ahead framework; showed strong endogenous temporal structure limits marginal gains from meteorological covariates.
@@ -46,24 +48,29 @@ My research interests lie at the intersection of **machine learning reliability,
 
 - **Deep Active Inference & Free Energy Principle（DDA2081）**, CUHK-Shenzhen (faculty reading group). Studied active inference, FEP, and deep learning architectures for cognitive modeling; contributed to paper draft "Deep Active Inference: Bridging the Free Energy Principle with Cognitive Modeling in Deep Learning Architectures".
 
+<span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
 - *AY2024-2025*: Academic Performance Scholarship – Class C
 - *AY2023-2024, AY2024-2025, AY2025-2026*: **Dean's List Award** (three consecutive years)
-
+  
+<span class='anchor' id='education'></span>
 # 📖 Educations
 - *2023.08 - 2027.06 (expected)*, **B.S. in Statistics**, The Chinese University of Hong Kong, Shenzhen. CGPA 3.88/4.0 (Major 3.93/4.0), Rank 2/67.
 - *2026.01 - 2026.04*, **Exchange Student**, University of British Columbia, Faculty of Science. Coursework: Time Series Analysis.
 
+<span class='anchor' id='teaching and service'></span>
 # 💬 Teaching & Service
 - *2025 Fall*, **Undergraduate Teaching Assistant (USTF)** – MAT3007 Optimization, CUHK-Shenzhen.
 - *AY2025-2026*, **Peer Advisor**, School of Data Science (SDS). Advised 20+ students on research and graduate applications.
 - *Fall 2025*, **Panelist**, Undergraduate Academic Exchange Session (invited student speaker).
 - *2024 Summer*, **Volunteer English Teacher**, Rural Primary School, Guangxi.
 
+<span class='anchor' id='skills'></span>
 # ⚙️ Skills
 - **Programming & Tools**: Python (PyTorch, scikit-learn, pandas), R (tidyverse), SQL, Git, LaTeX
 - **Methods**: Statistical learning, time-series analysis, reinforcement learning, LLM fine-tuning, uncertainty quantification
 - **Research Interests**: ML reliability in healthcare · wearable/sensor modeling · bridging anomaly detection and clinical interpretation · biostatistics methodology
 
+<span class='anchor' id='cv'></span>
 # 📄 Full CV
 For complete publication links, project details, verification records, and references, please download my full CV: **[Download PDF](Yongxi_Feng_PHD_Application.pdf)** 
