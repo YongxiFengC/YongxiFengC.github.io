@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Yongxi Feng | 冯泳熙"
-description              : "Statistics @ CUHK-Shenzhen | Biostatistics MS/PhD Applicant | Machine Learning & Health Data "
+description              : |
+  Statistics @ CUHK-Shenzhen
+  Biostatistics MS/PhD Applicant
+  Machine Learning & Health Data 
 repository               : "YongxiFengC/YongxiFengC.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yongxi Feng"
   avatar           : "photo.png"
-  bio              : "Statistics @ CUHK-Shenzhen | UBC Exchange | Biostatistics Applicant"
+  bio              : "Statistics @ CUHK-Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
