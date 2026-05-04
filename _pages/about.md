@@ -23,12 +23,13 @@ My research interests lie at the intersection of **machine learning reliability,
 
 📄 **Full CV available upon request or [download here](Yongxi_Feng_PHD_Application.pdf)**. 
 
+<span class='anchor' id='News'></span>
 # 🔥 News
 - *2026.05*: &nbsp;🎉 Started preparing MS/PhD applications in Biostatistics.
 - *2026.04*: &nbsp;🎉 Completed exchange studies at University of British Columbia (Time Series Analysis).
 - *2025.12*: &nbsp;🎉 Awarded Academic Performance Scholarship Class C.
-- 
-<span class='anchor' id='research'></span>
+
+<span class='anchor' id='Research'></span>
 # 📝 Selected Research 
 
 - **Wearable Sensor Anomaly Detection – LLM-based Framework**, CUHK-Shenzhen (Advisor: Prof. Kaixin Zhou). Investigated clinical validity gaps in wearable health data; tokenized NHANES physiological signals (2,000+ participants) into LLM-compatible sequences; implemented teacher-student distillation with FRIM-based soft labels, benchmarking against statistical and deep learning baselines.
