@@ -37,7 +37,7 @@ My research interests lie at the intersection of **machine learning reliability,
 
 - **"Photo Stories": Visual-Guided Interview System**, Tencent Collaboration (Advisor: Prof. Zhongxiang Dai). Built multimodal RAG system for visually grounded oral history collection; designed question generation pipeline and cross-image context management; evaluated multiple LLMs (Gemini, Hunyuan, Tencent Yuanbao) on narrative coherence.
 
-<span class='anchor' id='Course Projects'></span>
+<span class='anchor' id='Course-Projects'></span>
 # 📚 Selected Course Projects
 
 - **Time Series (STAT443): Forecasting Daily Influenza Incidence in Kawasaki City (2014-2025)**. Compared AR(1), SARIMA, and ARIMAX models under one-step-ahead framework; showed strong endogenous temporal structure limits marginal gains from meteorological covariates.
@@ -58,7 +58,7 @@ My research interests lie at the intersection of **machine learning reliability,
 - *2023.08 - 2027.06 (expected)*, **B.S. in Statistics**, The Chinese University of Hong Kong, Shenzhen. CGPA 3.88/4.0 (Major 3.93/4.0), Rank 2/67.
 - *2026.01 - 2026.04*, **Exchange Student**, University of British Columbia, Faculty of Science. Coursework: Time Series Analysis.
 
-<span class='anchor' id='teaching and service'></span>
+<span class='anchor' id='teaching-and-service'></span>
 # 💬 Teaching & Service
 - *2025 Fall*, **Undergraduate Teaching Assistant (USTF)** – MAT3007 Optimization, CUHK-Shenzhen.
 - *AY2025-2026*, **Peer Advisor**, School of Data Science (SDS). Advised 20+ students on research and graduate applications.
