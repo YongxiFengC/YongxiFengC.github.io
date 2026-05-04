@@ -7,10 +7,10 @@ main:
     url: "/#News"
 
   - title: "Research"
-    url: "/#research"
+    url: "/#Research"
     
   - title: "Course Projects"
-    url: "/#course-projects"
+    url: "/#Course-Projects"
     
   - title: "Honors and Awards"
     url: "/#honors"
