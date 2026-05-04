@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#News"
 
   - title: "Research"
-    url: "/#-Research"
+    url: "/#research"
     
   - title: "Course Projects"
-    url: "/#-Course-Projects"
+    url: "/#course-projects"
     
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#education"
 
   - title: "Teaching & Service"
-    url: "/#-Teaching-and-Service"
+    url: "/#teaching-and-service"
 
   - title: "Skills"
-    url: "/#-Skills"
+    url: "/#skills"
