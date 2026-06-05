@@ -21,7 +21,7 @@ Hi, I'm **Yongxi Feng (冯泳熙)**. I'm a senior undergraduate majoring in Stat
 
 My research interests lie at the intersection of **machine learning reliability, clinical validity in healthcare data, and time-series modeling for wearable sensors**. I am particularly drawn to problems where statistical rigor meets real-world clinical interpretation — bridging anomaly detection and uncertainty quantification. I am actively preparing to apply for MS/PhD programs in Biostatistics for Fall 2027.
 
-📄 **Full CV available upon request or [download here](Yongxi_Feng_PHD_Application.pdf)**. 
+📄 **Full CV available upon request or [download here](Yongxi_Feng_PHD_Application)**. 
 
 <span class='anchor' id='News'></span>
 # 🔥 News
@@ -74,4 +74,4 @@ My research interests lie at the intersection of **machine learning reliability,
 
 <span class='anchor' id='cv'></span>
 # 📄 Full CV
-For complete publication links, project details, verification records, and references, please download my full CV: **[Download PDF](Yongxi_Feng_PHD_Application.pdf)** 
+For complete publication links, project details, verification records, and references, please download my full CV: **[Download PDF](Yongxi_Feng_PHD_Application)** 
