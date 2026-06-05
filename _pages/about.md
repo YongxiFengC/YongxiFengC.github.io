@@ -74,4 +74,4 @@ My research interests lie at the intersection of **machine learning reliability,
 
 <span class='anchor' id='cv'></span>
 # 📄 Full CV
-For complete publication links, project details, verification records, and references, please download my full CV: **[Download PDF](Yongxi_Feng_PHD_Application.pdf)** 
+For complete publication links, project details, verification records, and references, please download my full CV: **[Download PDF](Yongxi_Feng_PHD_Application)** 
